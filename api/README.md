@@ -4,3 +4,4 @@
 
 DATABASE_URL="url_mongo_atlas"
 JWT_SECRET_KEY='generate openssl rand --base64 32'
+CLIENT_URL = 'URL APP CLIENT http://localhost:5173/'
